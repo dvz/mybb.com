@@ -7,4 +7,5 @@ layout: blank
 	color: {{ role.color }};
 	background-color: {{ role.color }};
 	border-color: {{ role.color }};
+    fill: {{ role.color }};
 }{% endfor %}
